@@ -1,0 +1,41 @@
+﻿Name,Minimum,Maximum,Season
+Rainbow Trout,10,18,"Spring, Summer, Fall"
+Chinook Salmon,10,14,"Spring, Summer"
+Arctic Char,0,10,"Fall, Winter"
+"Catfish,Mahi Mahi",22,30,Summer
+Bluegill,20,30,Summer
+Largemouth Bass,18,28,"Spring, Summer, Fall"
+Crappie,20,28,"Spring, Summer, Fall"
+"Northern Pike,Yellow Perch,Chub Mackerel",15,20,"Spring, Summer"
+Atlantic Cod,-12,-12,"Winter, Spring"
+Walleye,16,22,"Spring, Summer"
+Bluefin Tuna,18,30,Summer
+Swordfish,18,22,Summer
+Barracuda,23,30,Summer
+Grouper,22,29,Summer
+Red Snapper,20,30,Summer
+Yellowtail,20,23,Summer
+Cod,-11,,"Winter, Spring"
+Halibut,-5,,Winter
+Sole,4,10,"Fall, Winter"
+Flounder,10,15,"Spring, Summer"
+Haddock,4,10,"Winter, Spring"
+Sardines,16,22,Summer
+Mackerel,10,18,"Summer, Fall"
+Trout,10,20,"Spring, Summer"
+"Bass,Mediterranean Sardine",15,25,Summer
+Salmon,4,15,"Fall, Winter, Spring"
+Shad,18,24,"Spring, Summer"
+Peruvian Anchovy,13,20,Summer
+Atlantic Herring,6,14,"Fall, Winter, Spring"
+Coho Salmon,12,15,"Fall, Winter"
+European Pilchard,14,20,Summer
+Skipjack Tuna,18,29,Summer
+Silver Hake,4,10,"Winter, Spring"
+Sockeye Salmon,12,14,"Summer, Fall"
+European Anchovy,12,18,Summer
+Japanese Anchovy,15,25,Summer
+Lake Whitefish,10,15,"Fall, Winter"
+Pollock,-8,,"Winter, Spring"
+Pacific Herring,5,14,"Winter, Spring"
+Atlantic Mackerel,10,15,"Summer, Fall"
